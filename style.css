@@ -1,0 +1,53 @@
+
+blockquote.bg-gray {
+background: rgb(224, 214, 224);
+border: 1px solid #b3b3b3;
+border-left: 10px solid #b3b3b3;
+color: #000000;
+}
+
+blockquote.bg-primary {
+background: #e68a00;
+border: 1px solid #c97e69;
+border-left: 10px solid #c97e69;
+color: #ffffff;
+}
+    
+blockquote.primary {
+border: 1px solid #c97e69;
+border-left: 10px solid #c97e69;
+}
+
+blockquote.right.primary {
+border-color: #c97e69;
+border-left: 1px solid #c97e69;
+border-right: 10px solid #c97e69;
+}
+
+blockquote.right {
+text-align: right;
+border-width: 1px 10px 1px 1px;
+}
+
+blockquote {
+border: 1px solid #b3b3b3;
+border-left: 10px solid #b3b3b3;
+border-radius: 0px;
+background: #fafafa;
+font-size: 18px;
+margin: 10px;
+padding: 10px 20px;
+}
+
+blockquote p {
+margin: 0;
+line-height: 30px;
+padding-bottom: 20px;
+}
+
+blockquote .small {
+display: block;
+font-size: 80%;
+color: brown;
+text-align: right;
+}
